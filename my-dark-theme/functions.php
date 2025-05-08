@@ -4,18 +4,15 @@
  */
 
 if (!defined('ABSPATH')) {
-    exit; // Exit if accessed directly
+    exit; 
 }
 
 // Theme Setup
 function archsan_setup() {
-    // Enable title tag
     add_theme_support('title-tag');
     
-    // Enable post thumbnails
     add_theme_support('post-thumbnails');
     
-    // Register navigation menus
     register_nav_menus(array(
         'primary' => __('Primary Menu', 'archsan'),
     ));
@@ -78,7 +75,7 @@ function archsan_scripts() {
         );
     }
 
-    // Main theme script (load last)
+    // Main theme script
     wp_enqueue_script(
         'archsan-main',
         get_template_directory_uri() . '/assets/js/script.js',
@@ -103,7 +100,6 @@ class Archsan_Menu_Walker extends Walker_Nav_Menu {
         $classes = empty($item->classes) ? array() : (array) $item->classes;
         $class_names = join(' ', apply_filters('nav_menu_css_class', array_filter($classes), $item, $args));
         
-        // Add dropdown class if has children
         $has_children = in_array('menu-item-has-children', $classes);
         $dropdown_class = $has_children ? ' duru-menu-sub' : '';
         
