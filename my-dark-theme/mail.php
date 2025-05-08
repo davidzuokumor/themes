@@ -19,7 +19,6 @@
             exit;
         }
         
-        # Mail Content
         $content = "Name: $name\n";
         $content .= "Email: $email\n\n";
         $content .= "Phone: $phone\n";

@@ -1,4 +1,10 @@
-<?php get_header(); ?>
+<?php 
+
+/*
+Template Name: About Page
+*/
+
+get_header(); ?>
 
 <!-- About -->
 <section class="about section-padding">

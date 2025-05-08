@@ -11,7 +11,7 @@
                             <h4>Project P.01</h4>
                             <h1>Ultra-Modern House Design</h1>
                             <p>Architecture viverra tristique justo duis vitae diaminte neque nivamus aestan ateuene artine aringianu the miss finibus viverra lacus fermen.</p> 
-                            <a href="<?php echo esc_url(home_url('/project-page')); ?>" class="button-light">View Project</a> 
+                            <a href="<?php echo esc_url(home_url('/projects-page')); ?>" class="button-light">View Project</a> 
                         </div>
                     </div>
                 </div>
@@ -25,7 +25,7 @@
                             <h4>Project P.02</h4>
                             <h1>Ultra-Luxurious Villa</h1>
                             <p>Architecture viverra tristique justo duis vitae diaminte neque nivamus aestan ateuene artine aringianu the miss finibus viverra lacus fermen.</p> 
-                            <a href="<?php echo esc_url(home_url('/project-page')); ?>" class="button-light">View Project</a> 
+                            <a href="<?php echo esc_url(home_url('/projects-page')); ?>" class="button-light">View Project</a> 
                         </div>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
                             <h4>Project P.03</h4>
                             <h1>Modernity In The Nature</h1>
                             <p>Architecture viverra tristique justo duis vitae diaminte neque nivamus aestan ateuene artine aringianu the miss finibus viverra lacus fermen.</p>
-                            <a href="<?php echo esc_url(home_url('/project-page')); ?>" class="button-light">View Project</a> 
+                            <a href="<?php echo esc_url(home_url('/projects-page')); ?>" class="button-light">View Project</a> 
                         </div>
                     </div>
                 </div>
@@ -108,11 +108,11 @@
         <div class="row projects2-items animate-box" data-animate-effect="fadeInUp">
             <div class="col-md-6 single-item ongoing">
                 <div class="projects2-wrap">
-                    <a href="<?php echo esc_url(home_url('/project-page')); ?>"><img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/projects/06.jpg'); ?>" alt=""></a>
+                    <a href="<?php echo esc_url(home_url('/projects-page')); ?>"><img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/projects/06.jpg'); ?>" alt=""></a>
                     <div class="projects2-con">
                         <p>Project P.01</p>
-                        <h3><a href="<?php echo esc_url(home_url('/project-page')); ?>">Modern Houses</a></h3>
-                        <a href="<?php echo esc_url(home_url('/project-page')); ?>" class="project2-link"></a>
+                        <h3><a href="<?php echo esc_url(home_url('/projects-page')); ?>">Modern Houses</a></h3>
+                        <a href="<?php echo esc_url(home_url('/projects-page')); ?>" class="project2-link"></a>
                     </div>
                 </div>
             </div>
@@ -121,48 +121,48 @@
                     <a href="<?php echo esc_url(home_url('/project-page')); ?>"><img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/projects/02.jpg'); ?>" alt=""></a>
                     <div class="projects2-con">
                         <p>Project P.02</p>
-                        <h3><a href="<?php echo esc_url(home_url('/project-page')); ?>">Luxurious Villa</a></h3>
-                        <a href="<?php echo esc_url(home_url('/project-page')); ?>" class="project2-link"></a>
+                        <h3><a href="<?php echo esc_url(home_url('/projects-page')); ?>">Luxurious Villa</a></h3>
+                        <a href="<?php echo esc_url(home_url('/projects-page')); ?>" class="project2-link"></a>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 single-item ongoing">
                 <div class="projects2-wrap">
-                    <a href="<?php echo esc_url(home_url('/project-page')); ?>"><img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/projects/03.jpg'); ?>" alt=""></a>
+                    <a href="<?php echo esc_url(home_url('/projects-page')); ?>"><img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/projects/03.jpg'); ?>" alt=""></a>
                     <div class="projects2-con">
                         <p>Project P.03</p>
-                        <h3><a href="<?php echo esc_url(home_url('/project-page')); ?>">Ultra BlackHome</a></h3>
-                        <a href="<?php echo esc_url(home_url('/project-page')); ?>" class="project2-link"></a>
+                        <h3><a href="<?php echo esc_url(home_url('/projects-page')); ?>">Ultra BlackHome</a></h3>
+                        <a href="<?php echo esc_url(home_url('/projects-page')); ?>" class="project2-link"></a>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 single-item ongoing">
                 <div class="projects2-wrap">
-                    <a href="<?php echo esc_url(home_url('/project-page')); ?>"><img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/projects/04.jpg'); ?>" alt=""></a>
+                    <a href="<?php echo esc_url(home_url('/projects-page')); ?>"><img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/projects/04.jpg'); ?>" alt=""></a>
                     <div class="projects2-con">
                         <p>Project P.04</p>
-                        <h3><a href="<?php echo esc_url(home_url('/project-page')); ?>">Modern Bedrooom</a></h3>
-                        <a href="<?php echo esc_url(home_url('/project-page')); ?>" class="project2-link"></a>
+                        <h3><a href="<?php echo esc_url(home_url('/projects-page')); ?>">Modern Bedrooom</a></h3>
+                        <a href="<?php echo esc_url(home_url('/projects-page')); ?>" class="project2-link"></a>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 single-item completed">
                 <div class="projects2-wrap">
-                    <a href="<?php echo esc_url(home_url('/project-page')); ?>"><img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/projects/01.jpg'); ?>" alt=""></a>
+                    <a href="<?php echo esc_url(home_url('/projects-page')); ?>"><img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/projects/01.jpg'); ?>" alt=""></a>
                     <div class="projects2-con">
                         <p>Project P.05</p>
-                        <h3><a href="<?php echo esc_url(home_url('/project-page')); ?>">Mountain House</a></h3>
-                        <a href="<?php echo esc_url(home_url('/project-page')); ?>" class="project2-link"></a>
+                        <h3><a href="<?php echo esc_url(home_url('/projects-page')); ?>">Mountain House</a></h3>
+                        <a href="<?php echo esc_url(home_url('/projects-page')); ?>" class="project2-link"></a>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 single-item completed">
                 <div class="projects2-wrap">
-                    <a href="<?php echo esc_url(home_url('/project-page')); ?>"><img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/projects/05.jpg'); ?>" alt=""></a>
+                    <a href="<?php echo esc_url(home_url('/projects-page')); ?>"><img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/projects/05.jpg'); ?>" alt=""></a>
                     <div class="projects2-con">
                         <p>Project P.06</p>
-                        <h3><a href="<?php echo esc_url(home_url('/project-page')); ?>">Modern Food Table</a></h3>
-                        <a href="<?php echo esc_url(home_url('/project-page')); ?>" class="project2-link"></a>
+                        <h3><a href="<?php echo esc_url(home_url('/projects-page')); ?>">Modern Food Table</a></h3>
+                        <a href="<?php echo esc_url(home_url('/projects-page')); ?>" class="project2-link"></a>
                     </div>
                 </div>
             </div>
@@ -236,11 +236,11 @@
             <div class="col-md-4">
                 <div class="item">
                     <div class="post-img">
-                        <a href="<?php echo esc_url(home_url('/post')); ?>"><div class="img"> <img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/blog/1.jpg'); ?>" alt=""> </div></a>
+                        <a href="<?php echo esc_url(home_url('/home')); ?>"><div class="img"> <img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/blog/1.jpg'); ?>" alt=""> </div></a>
                     </div>
                     <div class="cont">
                         <h4><a href="<?php echo esc_url(home_url('/post')); ?>">5 Best Villa ideas in 2025</a></h4>
-                        <div class="info"> <a href="<?php echo esc_url(home_url('/blog')); ?>"><span>Exterior Design</span></a> <a href="<?php echo esc_url(home_url('/blog')); ?>">Dec, 24</a> </div>
+                        <div class="info"> <a href="<?php echo esc_url(home_url('/home')); ?>"><span>Exterior Design</span></a> <a href="<?php echo esc_url(home_url('/blog')); ?>">Dec, 24</a> </div>
                     </div>
                 </div>
             </div>
@@ -296,6 +296,15 @@
                             <div class="col-md-3 form-group">
                                 <input class="line-gray" name="phone" type="text" placeholder="Phone *" required="">
                             </div>
+                            <div class="col-md-12 form-group">
+                            <input name="email" type="email" placeholder="Your Email *" required>
+                        </div>
+                        <div class="col-md-12 form-group">
+                            <input name="subject" type="text" placeholder="Subject *" required>
+                        </div>
+                        <div class="col-md-12 form-group">
+                            <textarea name="message" id="message" cols="30" rows="4" placeholder="Message *" required></textarea>
+                        </div>
                             <div class="col-md-2">
                                 <input class="line-gray" name="submit" type="submit" value="Send">
                             </div>

@@ -383,6 +383,7 @@ input[type=checkbox].line-gray:before {
     font-family: 'Barlow', sans-serif;
     color: #fff;
     outline: none;
+    border-bottom: 1px solid rgb(44, 41, 41);
 }
 
 .lets-talk input[type=checkbox].line-gray:before {
@@ -960,7 +961,7 @@ input[type="checkbox"] {
 .duru-header.scrolled {
     position: fixed;
     padding: 22px 0;
-    top: 20px;
+    top: 0;
     background: #1b1b1b;
     -webkit-transition: .0s all ease;
     -o-transition: .0s all ease;

@@ -86,11 +86,6 @@ function archsan_scripts() {
         filemtime(get_template_directory() . '/assets/js/script.js'),
         true
     );
-
-    // Localize script for AJAX
-    wp_localize_script('archsan-main', 'archsan_ajax', array(
-        'ajaxurl' => admin_url('admin-ajax.php')
-    ));
 }
 add_action('wp_enqueue_scripts', 'archsan_scripts');
 
@@ -147,27 +142,6 @@ class Archsan_Menu_Walker extends Walker_Nav_Menu {
     }
 }
 
-// Contact Form Handler
-function archsan_contact_form() {
-    if (isset($_POST['name']) && isset($_POST['phone'])) {
-        $name = sanitize_text_field($_POST['name']);
-        $phone = sanitize_text_field($_POST['phone']);
-        
-        $to = get_option('admin_email');
-        $subject = 'New Contact Form Submission';
-        $message = "Name: $name\nPhone: $phone";
-        $headers = array('Content-Type: text/plain; charset=UTF-8');
-        
-        if (wp_mail($to, $subject, $message, $headers)) {
-            wp_send_json_success('Message sent successfully');
-        } else {
-            wp_send_json_error('Message failed to send');
-        }
-    }
-    wp_send_json_error('Invalid request');
-}
-add_action('wp_ajax_archsan_contact_form', 'archsan_contact_form');
-add_action('wp_ajax_nopriv_archsan_contact_form', 'archsan_contact_form');
 
 // Register Custom Post Type for Projects
 function archsan_register_projects() {
