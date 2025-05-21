@@ -10,8 +10,8 @@
                             <div class="item">
                                 <h3>New York <span>Office</span></h3>
                                 <p>1616 Broadway NY, New York 10001<br>United States of America.</p>
-                                <p class="phone">+1 203 123 0606</p>
-                                <p class="mail">info@architect.com</p>
+                                <p class="phone">+1 (407) 765-5152</p>
+                                <p class="mail">cfontaine8185@yahoo.com</p>
                                 <div class="social mt-2"> 
                                     <a href="#"><i class="ti-twitter"></i></a> 
                                     <a href="#"><i class="ti-instagram"></i></a> 

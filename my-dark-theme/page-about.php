@@ -14,10 +14,10 @@ get_header(); ?>
                 <div class="sub-title border-bot-light">About</div>
             </div>
             <div class="col-lg-4 col-md-8 animate-box" data-animate-effect="fadeInUp">
-                <div class="section-title">ArcSa <span>About</span></div>
-                <p>Architecture viverra tristique justo duis vitae iaminte neque nivamus aestan ateuene artines aringianu the ateliten finibus viverra nec lacus in the nedana mis erodino setlie suscipe no curabit tristue.</p>
-                <p>Design nila iman the finise viverra nec a lacus themo the seneoice misuscipit non sagie the fermen.</p>
-                <p>Planner inilla duiman at elit finibus viverra nec a acus themo the drudea seneoice misuscipit nonie the fermen miverra the ivite dianne onen nivam.</p>
+                <div class="section-title">Our <span>Mission</span></div>
+                <p>Our mission is to focus on our ability to innovate and provide the best design that will be a reminder that either large or small, your property will be a jewel tocherish.</p>
+                <div class="section-title">Our <span>Vision</span></div>
+                <p>Our Vision is to change the way we provide architectural service to our clients. We will provide guidance while the client choose. We will revolutionize the sustainable housing in our design by allowing better concept that focus on more range of design process while working together with clients need. Our goal is ensuring that our clients are satisfied based on our ability to exceed expectations. This is our priority.</p>
                 <div class="states">
                     <ul class="flex">
                         <li class="flex">

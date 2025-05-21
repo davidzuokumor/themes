@@ -10,7 +10,7 @@
                         <div class="col-lg-7 col-md-12">
                             <h4>Project P.01</h4>
                             <h1>Ultra-Modern House Design</h1>
-                            <p>Architecture viverra tristique justo duis vitae diaminte neque nivamus aestan ateuene artine aringianu the miss finibus viverra lacus fermen.</p> 
+                            <p>Seamlessly built, Giving you superior living.</p> 
                             <a href="<?php echo esc_url(home_url('/projects-page')); ?>" class="button-light">View Project</a> 
                         </div>
                     </div>
@@ -37,7 +37,7 @@
                     <div class="row">
                         <div class="col-lg-7 col-md-12">
                             <h4>Project P.03</h4>
-                            <h1>Modernity In The Nature</h1>
+                            <h1>Modernity In Nature</h1>
                             <p>Architecture viverra tristique justo duis vitae diaminte neque nivamus aestan ateuene artine aringianu the miss finibus viverra lacus fermen.</p>
                             <a href="<?php echo esc_url(home_url('/projects-page')); ?>" class="button-light">View Project</a> 
                         </div>
@@ -85,7 +85,17 @@
         </div>
     </div>
 </section>
-
+<!-- About Me -->
+<section class="section-padding bg-dark">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center animate-box" data-animate-effect="fadeInUp">
+                <h3 class="mb-3">Find out more about me and my projects</h3>
+                <a href="<?php echo esc_url(home_url('/about-me')); ?>" class="button-light">About Me</a>
+            </div>
+        </div>
+    </div>
+</section>
 <!-- Projects -->
 <div class="projects2 section-padding">
     <div class="container">
