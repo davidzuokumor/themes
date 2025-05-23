@@ -8,7 +8,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="item">
-                                <h3>New York <span>Office</span></h3>
+                                <h3>Florida <span>Office</span></h3>
                                 <p>1616 Broadway NY, New York 10001<br>United States of America.</p>
                                 <p class="phone">+1 (407) 765-5152</p>
                                 <p class="mail">cfontaine8185@yahoo.com</p>
@@ -17,14 +17,6 @@
                                     <a href="#"><i class="ti-instagram"></i></a> 
                                     <a href="#"><i class="ti-linkedin"></i></a> 
                                 </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="item">
-                                <h3>Dubai <span>Office</span></h3>
-                                <p>Alfattan Marine Towers, P.O. Box 34521<br>Dubai UAE.</p>
-                                <p class="phone">+971 1 333 0606</p>
-                                <p class="mail">dubai@architect.com</p>
                             </div>
                         </div>
                     </div>

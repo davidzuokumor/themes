@@ -75,14 +75,25 @@ get_header();
                     </div>
                 </div>
             </div>
+             <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
+                <div class="project-item">
+                    <a href="<?php echo esc_url(home_url('/projects-page')); ?>">
+                        <img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/projects/Whitehouse.png'); ?>" alt="Architectural Drawing" class="img-fluid">
+                    </a>
+                    <div class="project-info mt-3">
+                        <h5><a href="<?php echo esc_url(home_url('/projects-page')); ?>">Urban Loft Development</a></h5>
+                        <p>Technical drawings</p>
+                    </div>
+                </div>
+            </div>
             <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
                 <div class="project-item">
                     <a href="<?php echo esc_url(home_url('/projects-page')); ?>">
                         <img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/projects/LaFontaine4.jpg'); ?>" alt="Architectural Drawing" class="img-fluid">
                     </a>
                     <div class="project-info mt-3">
-                        <h5><a href="<?php echo esc_url(home_url('/projects-page')); ?>">Urban Loft Development</a></h5>
-                        <p>Technical drawings</p>
+                        <h5><a href="<?php echo esc_url(home_url('/projects-page')); ?>">Residential Project</a></h5>
+                        <p>Live Results</p>
                     </div>
                 </div>
             </div>

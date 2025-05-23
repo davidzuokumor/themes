@@ -29,7 +29,7 @@ get_header(); ?>
                             </div>
                             <div class="cont">
                                 <h3>Concept Design</h3>
-                                <p>Architecture viverra tristique justo duis vitae diam neque nivamus aestan ateuene artines aringianu the ateliten finibus viverra nec lacus. Nedana theme erodino setlie suscipe no curabit tristique.</p>
+                                <p>We begin by understanding your needs and aspirations, creating initial design concepts that capture your vision and set the tone for the project.</p>
                             </div>
                         </div>
                     </div>
@@ -42,7 +42,7 @@ get_header(); ?>
                             </div>
                             <div class="cont">
                                 <h3>Preliminary Plans & Pricing</h3>
-                                <p>Architecture viverra tristique justo duis vitae diam neque nivamus aestan ateuene artines aringianu the ateliten finibus viverra nec lacus. Nedana theme erodino setlie suscipe no curabit tristique.</p>
+                                <p>Next, we develop preliminary plans and provide a detailed cost estimate, allowing you to make informed decisions and adjust the project scope as needed.</p>
                             </div>
                         </div>
                     </div>
@@ -65,7 +65,7 @@ get_header(); ?>
                             </div>
                             <div class="cont">
                                 <h3>Working Drawings & Consents</h3>
-                                <p>Architecture viverra tristique justo duis vitae diam neque nivamus aestan ateuene artines aringianu the ateliten finibus viverra nec lacus. Nedana theme erodino setlie suscipe no curabit tristique.</p>
+                                <p>Comprehensive working drawings are prepared for construction, and we assist with securing all necessary permits and approvals to keep your project compliant and on track.</p>
                             </div>
                         </div>
                     </div>
@@ -78,7 +78,7 @@ get_header(); ?>
                             </div>
                             <div class="cont">
                                 <h3>Chosing Your Builder</h3>
-                                <p>Architecture viverra tristique justo duis vitae diam neque nivamus aestan ateuene artines aringianu the ateliten finibus viverra nec lacus. Nedana theme erodino setlie suscipe no curabit tristique.</p>
+                                <p>We guide you through selecting the right builder, offering recommendations and support to ensure quality workmanship and successful project delivery.</p>
                             </div>
                         </div>
                     </div>

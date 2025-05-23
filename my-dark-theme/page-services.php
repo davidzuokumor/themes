@@ -14,7 +14,7 @@ get_header(); ?>
                     </div>
                     <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                         <div class="section-title"><span>Our</span> Services</div>
-                        <p>Architecture viverra tristique justo duis vitae diaminte neque nivamus aestan ateuene artines ariianu the ateliten finibus viverra nec lacus in the nedana mis erodino. Design nila iman the finise viverra nec a lacus miss viventa in the setlien suscipe no curabit tristue the seneoice misuscipit non sagie the fermen.</p>
+                        <p>We offer a comprehensive range of architectural and design solutions tailored to bring your vision to life. From innovative architecture to detailed interior concepts, our team combines creativity with technical expertise to deliver spaces that are both functional and inspiring. Each service is designed to meet the highest standards of quality while reflecting your unique style and needs.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -26,7 +26,7 @@ get_header(); ?>
                                         <a href="/services-page">
                                         <div class="numb">01</div>
                                         <h5>Architecture</h5>
-                                        <p>Architecture bibendum eros eget lacus the vulputate, sit amet vehicula nibh placerat in lectus vitae justo pulvinar cursus.</p>
+                                        <p>Creating innovative, sustainable, and functional architectural designs that blend beauty and practicality to enhance your living or working environment.</p>
                                         </a>
                                     </div>
                                 </div>
@@ -37,7 +37,7 @@ get_header(); ?>
                                         <a href="/services-page">
                                         <div class="numb">02</div>
                                         <h5>Interior Design</h5>
-                                        <p>Interior design eros eget lacus the vulputate, sit amet vehicula nibh placerat in lectus vitae the justo pulvinar of cursus.</p>
+                                        <p>Transforming interiors into elegant and comfortable spaces, carefully curated to reflect personality and optimize usability.</p>
                                         </a>
                                     </div>
                                 </div>
@@ -48,7 +48,7 @@ get_header(); ?>
                                         <a href="/services-page">
                                         <div class="numb">03</div>
                                         <h5>Urban Design</h5>
-                                        <p>Urban design eros eget lacus the vulputate, sit amet vehicula nibh placerat in lectus vitae the justo pulvinar of cursus.</p>
+                                        <p>Planning and designing urban environments that promote sustainable living, community engagement, and aesthetic appeal.</p>
                                         </a>
                                     </div>
                                 </div>
@@ -58,8 +58,8 @@ get_header(); ?>
                                     <div class="con">
                                         <a href="/services-page">
                                         <div class="numb">04</div>
-                                        <h5>Planing</h5>
-                                        <p>Architecture bibendum eros eget lacus the vulputate, sit amet vehicula nibh placerat in lectus vitae justo pulvinar cursus.</p>
+                                        <h5>Planning</h5>
+                                        <p>Strategic site and project planning that aligns with your goals, ensuring efficient use of space and resources.</p>
                                         </a>
                                     </div>
                                 </div>
@@ -70,7 +70,7 @@ get_header(); ?>
                                         <a href="/services-page">
                                         <div class="numb">05</div>
                                         <h5>3D Modelling</h5>
-                                        <p>Interior design eros eget lacus the vulputate, sit amet vehicula nibh placerat in lectus vitae the justo pulvinar of cursus.</p>
+                                        <p>Detailed 3D visualizations and models that help you envision your project before construction begins.</p>
                                         </a>
                                     </div>
                                 </div>
@@ -81,7 +81,7 @@ get_header(); ?>
                                         <a href="/services-page">
                                         <div class="numb">06</div>
                                         <h5>Decor Plans</h5>
-                                        <p>Urban design eros eget lacus the vulputate, sit amet vehicula nibh placerat in lectus vitae the justo pulvinar of cursus.</p>
+                                        <p>Custom decor plans that complement architectural and interior design, adding the perfect finishing touches to your space.</p>
                                         </a>
                                     </div>
                                 </div>

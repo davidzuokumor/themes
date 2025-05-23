@@ -24,7 +24,7 @@
                         <div class="col-lg-7 col-md-12">
                             <h4>Project P.02</h4>
                             <h1>Ultra-Luxurious Villa</h1>
-                            <p>Architecture viverra tristique justo duis vitae diaminte neque nivamus aestan ateuene artine aringianu the miss finibus viverra lacus fermen.</p> 
+                            <p>We provide the ultimate level of sophisticated living.</p> 
                             <a href="<?php echo esc_url(home_url('/projects-page')); ?>" class="button-light">View Project</a> 
                         </div>
                     </div>
@@ -38,7 +38,7 @@
                         <div class="col-lg-7 col-md-12">
                             <h4>Project P.03</h4>
                             <h1>Modernity In Nature</h1>
-                            <p>Architecture viverra tristique justo duis vitae diaminte neque nivamus aestan ateuene artine aringianu the miss finibus viverra lacus fermen.</p>
+                            <p>Modernity is being innovated, while preserving nature.</p>
                             <a href="<?php echo esc_url(home_url('/projects-page')); ?>" class="button-light">View Project</a> 
                         </div>
                     </div>
@@ -58,9 +58,9 @@
                 <div class="sub-title border-bot-light">Who are we?</div>
             </div>
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
-                <div class="section-title"><span>About</span> ArchSan</div>
-                <p>Architecture viverra tristique justo duis vitae diaminte neque nivamus aestan ateuene artine aringianu the ateliten finibus viverra nec in the nedana. Design nila iman the finise viverra nec a lacus themo the seneoice misuscipit drana miss non sagie the fermen.</p>
-                <p>Planner inilla duiman at elit finibus viverra a lacus themo the drudea seneoice misuscipit nonie the fermen miverration tristique jusio the ivite dianne onen nivami acsestion augue artine.</p><br>
+                <div class="section-title"><span>About</span> LaFontaine</div>
+                <p>Founded by Carline, a skilled architectural engineer with roots in Haiti and a degree from the University of Hartford, our firm brings a unique blend of global perspective and refined expertise. With experience at top firms like Turner, HOK, HHCP, and Cuhachi & Peterson, we specialize in ultra-modern homes, luxurious villas, and sustainable designs that honor both innovation and nature. Every project is approached with a commitment to excellence, transforming spaces into timeless, livable art.</p>
+                <p>Our design philosophy is simple: guide the client, honor their vision, and deliver beyond expectations. Whether grand or modest, your property becomes a jewel worth cherishing.</p><br>
                 <div class="row">
                     <div class="col col-md-4">
                         <div class="about-box">
@@ -104,15 +104,13 @@
                 <div class="sub-title border-bot-light">Discover</div>
             </div>
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
-                <div class="section-title">Creative <span>Projects</span></div>
-                <p>Architecture viverra tristique justo duis vitae diaminte neque nivamus aestan ateuene artines ariianu the ateliten finibus viverra nec lacus in the nedana mis erodino. Design nila iman the finise viverra nec a lacus miss viventa in the setlien suscipe no curabit tristue the seneoice misuscipit non sagie the fermen.</p>
+                <div class="section-title">Creative <span>Project Ideas</span></div>
+                <p>Spark design inspiration from a range of creative projects</p>
             </div>
         </div>
         <div class="row text-center animate-box" data-animate-effect="fadeInUp">
             <ul class="projects2-filter">
                 <li class="active" data-filter="*">All</li>
-                <li data-filter=".ongoing">Ongoing Projects</li>
-                <li data-filter=".completed">Completed Projects</li>
             </ul>
         </div>
         <div class="row projects2-items animate-box" data-animate-effect="fadeInUp">
@@ -232,7 +230,7 @@
 </section>
 
 <!-- Blog -->
-<section class="blog-home section-padding">
+<!-- <section class="blog-home section-padding">
     <div class="container">
         <div class="row mb-5">
             <div class="col-md-4">
@@ -278,7 +276,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- Contact Form -->
 <section class="lets-talk">
