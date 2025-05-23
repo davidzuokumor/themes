@@ -39,7 +39,7 @@
                         'menu_class' => '',
                         'fallback_cb' => false,
                         'items_wrap' => '<ul>%3$s</ul>',
-                        'walker' => new Archsan_Menu_Walker() // Custom walker needed
+                        'walker' => new Archsan_Menu_Walker() 
                     ));
                     ?>
                 </nav>
@@ -52,10 +52,10 @@
                     <!-- Logo -->
                     <div class="col-6 col-md-6 duru-logo-wrap">
                         <a href="<?php echo esc_url(home_url('/')); ?>" class="duru-logo">
-                            <?php if (has_custom_logo()): ?>
+                            <?php if ( has_custom_logo() ) : ?>
                                 <?php the_custom_logo(); ?>
-                            <?php else: ?>
-                                <img src="<?php echo esc_url(get_template_directory_uri() . '/images/logo.png'); ?>" alt="<?php bloginfo('name'); ?>">
+                            <?php else : ?>
+                                <h1 class="site-title"><?php bloginfo( 'name' ); ?></h1>
                             <?php endif; ?>
                         </a>
                     </div>
