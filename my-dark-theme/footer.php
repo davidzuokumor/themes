@@ -9,7 +9,7 @@
                         <div class="col-md-4">
                             <div class="item">
                                 <h3>Florida <span>Office</span></h3>
-                                <p>1616 Broadway NY, New York 10001<br>United States of America.</p>
+                                <p>800 MONTANA STREET BUILDING 1<br>ORLANDO, FL 32803.</p>
                                 <p class="phone">+1 (407) 765-5152</p>
                                 <p class="mail">cfontaine8185@yahoo.com</p>
                                 <div class="social mt-2"> 

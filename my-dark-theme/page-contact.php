@@ -20,9 +20,9 @@ get_header();
         <div class="row">
             <!-- Contact Info -->
             <div class="col-lg-4 offset-lg-4 col-md-6 animate-box" data-animate-effect="fadeInUp">
-                <p>1616 Broadway NY, New York 10001<br>United States of America.</p>
-                <div class="phone">+1 203-123-0606</div>
-                <div class="mail mb-3">info@architect.com</div>
+                <p>800 MONTANA STREET BUILDING 1<br>ORLANDO, FL 32803.</p>
+                <div class="phone">+1 (407) 765-5152</div>
+                <div class="mail mb-3">cfontaine8185@yahoo.com</div>
                 <div class="social mt-2"> 
                     <a href="#"><i class="ti-twitter"></i></a> 
                     <a href="#"><i class="ti-instagram"></i></a> 
